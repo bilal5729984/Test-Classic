@@ -6,3 +6,4 @@ white
 red
 pink
 end of colors
+these are not the basic colours there are only four colours which are known as basic color.
