@@ -1,0 +1,8 @@
+Basic colors
+blue 
+yellow
+green
+white
+red
+pink
+end of colors
