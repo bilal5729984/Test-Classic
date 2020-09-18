@@ -7,4 +7,10 @@ red
 pink
 end of colors
 these are not the basic colours there are only four colours which are known as basic color.
+
 adding green colour might be the second feature of this.search for more features.
+
+
+red is also known as basic color so adding red is third feature try to search for other features.
+adding the blue and white coloue might be the first feature try to search for the other features.
+
