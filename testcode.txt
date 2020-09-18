@@ -7,3 +7,4 @@ red
 pink
 end of colors
 these are not the basic colours there are only four colours which are known as basic color.
+adding the blue and white coloue might be the first feature try to search for the other features.
